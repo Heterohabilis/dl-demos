@@ -2,3 +2,4 @@
 .DS_Store
 assignments/hw1/FashionMNIST*
 assignments/hw1/MNIST
+.idea/*
