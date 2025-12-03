@@ -5,3 +5,6 @@ assignments/hw1/MNIST
 .idea/*
 assignments/hw2/data/*
 assignments/hw2/diary/*
+assignments/hw3/*/samples*
+assignments/hw3/data/*
+assignments/*/data
